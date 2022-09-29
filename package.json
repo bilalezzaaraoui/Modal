@@ -3,6 +3,12 @@
   "version": "0.1.5",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "keywords": [
+    "input",
+    "date",
+    "web-components",
+    "UI"
+  ],
   "files": [
     "dist"
   ],
