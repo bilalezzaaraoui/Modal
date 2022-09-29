@@ -8,7 +8,7 @@ Install the package `npm i modalib`
 
 ## Usage
 
-You need to have a module with the router configuration. For example:
+You need to import the DateInput component and give it the name you want.
 
 `form.js`
 
